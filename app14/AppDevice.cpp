@@ -1,5 +1,5 @@
 //====================================================
-// App.cpp - Grundgerüst für künftige Anwendungen
+// App.cpp - GrundgerÃ¼st fÃ¼r kÃ¼nftige Anwendungen
 //====================================================
 #include "DragonFireSDK.h"
 #include "../common/MeinLabello.h"
@@ -17,7 +17,7 @@ using namespace std;
 char* FONTDIR = "Fonts/Broadway18RegularGreen";
 /* Bildschirmbreite */
 const int XS = MyTools::getDisplayWidth();
-/* Bildschirmhöhe */
+/* BildschirmhÃ¶he */
 const int YS = MyTools::getDisplayHeight();
 
 //////////////////////////////////////////////
